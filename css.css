@@ -1,0 +1,113 @@
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 8%;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+
+#info{
+  padding-left: 3rem;
+  display:inline;
+}
+
+.back{
+  background-color: #d5f4e6;
+}
+
+
+.cert{
+  text-align: left;
+   font-size: 20px;
+   margin-right: 100px;
+   display: inline-block;
+   margin-left: 50px;
+}
+
+h3.b{
+  font-size: 25px;
+
+}
+
+.s {
+    padding-left: 5%;
+    padding-right:5%;
+    border-style: solid;
+    display:inline-block;
+     }
+
+ul{
+  position: relative;
+  left: 3%;
+}
+
+#im{
+  float:left;
+  clear:none;
+}
+
+#red {
+        height: 200px;
+    width: 200px;
+    position: relative;
+    background-color: red;
+    top: 400px;
+    left: 400px;
+}
+#blue {
+    height: 200px;
+    width: 200px;
+    position: relative;
+    background-color: blue;
+    top: 200px;
+    left: 200px;
+}
+#green {
+     height: 200px;
+    width: 200px;
+    position: relative;
+    background-color: green;
+}
+#red1 {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    background-color: red;
+    top: 490px;
+    left: 1200px;
+}
+#blue1 {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    background-color: blue;
+    top: 290px;
+    left: 1000px;
+}
+#green1 {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    background-color: green;
+    top: 90px;
+    left: 800px;
+}
+
+
+.text{
+  font-family: Times New Roman, serif;
+  position: relative;
+  text-align:left ;
+}
